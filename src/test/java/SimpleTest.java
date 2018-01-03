@@ -15,4 +15,10 @@ public class SimpleTest {
         assertEquals("","");
         System.out.println("Test 2 works");
     }
+
+    @Test
+    public void myTest3() {
+        assertEquals("a","");
+        System.out.println("Test 3 works");
+    }
 }
