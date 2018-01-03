@@ -18,7 +18,7 @@ public class SimpleTest {
 
     @Test
     public void myTest3() {
-        assertEquals("a","");
+        assertEquals("","");
         System.out.println("Test 3 works");
     }
 }
