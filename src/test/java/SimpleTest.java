@@ -21,4 +21,10 @@ public class SimpleTest {
         assertEquals("","");
         System.out.println("Test 3 works");
     }
+
+    @Test
+    public void myTest4() {
+        assertEquals("x","");
+        System.out.println("Test 4 works");
+    }
 }
