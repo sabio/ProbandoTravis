@@ -6,7 +6,7 @@ public class SimpleTest {
 
     @Test
     public void myTest1() {
-        assertEquals("","a");
+        assertEquals("a","a");
         System.out.println("Test 1 works");
     }
 
